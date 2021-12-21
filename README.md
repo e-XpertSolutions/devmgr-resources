@@ -1,2 +1,4 @@
-# devmgr-resources
-Various resources (iscript, ...) for our product "Device Manager"
+# Device Manager - Resources
+
+This repository contains various resources (iscript, ...) for our product **Device Manager**.
+
